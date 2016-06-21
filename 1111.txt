@@ -2,4 +2,5 @@
 	echo 'hello word!';
 
 hello steven .
+hello baoqiang.
 ?>
